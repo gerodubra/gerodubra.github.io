@@ -1,8 +1,7 @@
 # Geronimo Dubra
 
 📍 Montpellier, France  
-📧 geronimo.dubra@gmail.com  
-📱 +33 0771752679  
+📧 geronimo.dubra@gmail.com    
 🔗 [LinkedIn](https://linkedin.com/in/geronimo-dubra/)  
 
 ---
