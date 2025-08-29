@@ -1,35 +1,18 @@
 # Geronimo Dubra
 
-📍 Montpellier, France  
 📧 geronimo.dubra@gmail.com    
 🔗 [LinkedIn](https://linkedin.com/in/geronimo-dubra/)  
 
 ---
 
 ## Profile
-I am a trained bioinformatician with over 12 years of experience in biological data science within academic settings. After transitioning to the private sector, I had the opportunity to work on machine learning projects, which I am eager to continue exploring. I am particularly interested in computer vision and the application of agentic solutions based on small LLMs deployed on-premise. On a personal level, I am a critical thinker with strong interpersonal skills and truly enjoy collaborative work.
+Hi! I'm Geronimo, a trained bioinformatician with over 12 years of experience in biological data science within academic settings. After transitioning to the private sector, I had the opportunity to work on machine learning projects, which I am eager to continue exploring. I am particularly interested in computer vision and the application of agentic solutions based on small LLMs deployed on-premise. On a personal level, I am a critical thinker with strong interpersonal skills and truly enjoy collaborative work.
 
 ---
 
-## Skills
-
-### Technical
-- **Programming:** Python, R, Bash, C#  
-- **Data Science & ML:** pandas, scikit-learn, PyTorch, XGBoost, SHAP  
-- **APIs & Web Dev:** FastAPI, Flask, CSS, HTML  
-- **Databases & Data Management:** SQL, Neo4J  
-- **Visualization:** matplotlib, seaborn, plotly, ggplot2, shiny  
-- **DevOps & Tools:** Git, Docker, Conda, Jupyter, uv, MLflow  
-
-### Soft
-- Adaptability  
-- Critical thinking  
-- Communication  
-- Teamwork  
-- Problem-solving  
-- Creativity  
-- Initiative  
-- Perseverance  
+## Education
+- **PhD in Biology and Health** – Université de Montpellier, France  
+  Thesis defense in September 2022
 
 ---
 
@@ -63,15 +46,16 @@ I am a trained bioinformatician with over 12 years of experience in biological d
 - Mined genomic databases to extract relevant data.  
 - Developed machine learning–based tools to predict the clinical relevance of genetic mutations.  
 
-### Other Jobs  
-**Baires ID – La Plata, Argentina** | 01/2008 – 12/2013  
-- Sales, repair, and customer support of IT equipment.  
 
----
+## Technical Skills
 
-## Education
-- **PhD in Biology and Health** – Université de Montpellier, France  
-  Thesis defense in September 2022  
+- **Programming:** Python, R, Bash, C#  
+- **Data Science & ML:** pandas, scikit-learn, PyTorch, XGBoost, SHAP  
+- **APIs & Web Dev:** FastAPI, Flask, CSS, HTML  
+- **Databases & Data Management:** SQL, Neo4J  
+- **Visualization:** matplotlib, seaborn, plotly, ggplot2, shiny  
+- **DevOps & Tools:** Git, Docker, Conda, Jupyter, uv, MLflow  
+
 
 ---
 
@@ -85,13 +69,6 @@ I am a trained bioinformatician with over 12 years of experience in biological d
 - The Data Scientist’s Toolbox – Johns Hopkins (Coursera) | Jun 2015  
 - Computing for Data Analysis – Johns Hopkins (Coursera) | Nov 2012  
 
----
-
-## Languages
-- Spanish: Native speaker  
-- English: Fluent  
-- French: Proficient  
-- Portuguese: Basic  
 
 ---
 
@@ -105,16 +82,4 @@ I am a trained bioinformatician with over 12 years of experience in biological d
 
 ---
 
-## Additional Information
-
-### Personal Details
-- Place of birth: Lincoln, Argentina  
-- Nationality: Argentine  
-- Residence: Montpellier, France  
-
-### Hobbies & Interests
-- **Sports:** Football & padel (regular practice), local-level football coach  
-- **Music:** Guitarist & music producer  
-- **Other Interests:** Reading, podcasts, documentaries  
-- **Personal Tech Projects:** Game development in Unity/C#, computer vision projects  
 
