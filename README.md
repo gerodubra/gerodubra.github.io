@@ -72,7 +72,7 @@ Hi! I'm Geronimo, a trained bioinformatician with over 12 years of experience in
 
 ---
 
-## Publications (Selected)
+## Publications
 - Valverde J.M., *Dubra, G.*, et al. (2023). A cyclin-dependent kinase-mediated phosphorylation switch of disordered protein condensation. *Nat Commun*, 14, 6316. [DOI](https://doi.org/10.1038/s41467-023-42049-0)  
 - Prieto, S., *Dubra, G.*, Camasses, et al. (2023). CDK8 and CDK19 act redundantly to control the CFTR pathway in the intestinal epithelium. *EMBO Reports*, 24(2). [DOI](https://doi.org/10.15252/embr.202154261)  
 - *Dubra, G.* (2022). A molecular mechanism for the quantitative model of the cell cycle: CDK-mediated phosphorylation of intrinsically disordered region.  
